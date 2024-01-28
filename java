@@ -23,6 +23,8 @@ public class WarungMadura{
         System.out.println("5  Melihat Semua Tabel");
         System.out.print("Pilih tabel yang ingin anda lihat :");
         d=Integer.parseInt(br.readLine());
+        System.out.println("Apa Aja ?");
+        System.out.println("apa aja ?");
         System.out.println("");
         switch(d) {
             
