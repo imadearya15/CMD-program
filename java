@@ -25,6 +25,7 @@ public class WarungMadura{
         d=Integer.parseInt(br.readLine());
         System.out.println("Apa Aja ?");
         System.out.println("apa aja ?");
+        System.out.println("I Made Arya Dwi Putra11111");
         System.out.println("");
         switch(d) {
             
