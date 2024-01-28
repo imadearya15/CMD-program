@@ -26,7 +26,8 @@ public class WarungMadura{
         System.out.println("Apa Aja ?");
         System.out.println("apa aja ?");
         System.out.println("");
-        switch(d) {
+        System.out.println("I Made Arya Dwi Putra222");
+            switch(d) {
             
             case 1:
             ResultSet rs=statement.executeQuery("select * from MenuGacoan"); //Memilih nama tabel
